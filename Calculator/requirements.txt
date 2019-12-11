@@ -1,0 +1,6 @@
+1. Allow subtraction of values
+2. Enable formulas with an arbitrary number of terms
+3. Implement a counter that increases the initial zero every second until it reaches 10
+4. Implement logging and use it for the buttons and the counter
+5. Implement a larger font for all labels and buttons
+6. Implement brackets for addition and subtraction
